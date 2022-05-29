@@ -1,0 +1,11 @@
+com\example\rest\entity\PatientDisease.class
+com\example\rest\repository\PatientRepository.class
+com\example\rest\exeption\DiseaseNotFoundException.class
+com\example\rest\LoadDatabase.class
+com\example\rest\RestApplication.class
+com\example\rest\entity\Disease.class
+com\example\rest\entity\Doctor.class
+com\example\rest\entity\Patient.class
+com\example\rest\controller\DiseasController.class
+com\example\rest\controller\PatientController.class
+com\example\rest\repository\DiseasRepository.class

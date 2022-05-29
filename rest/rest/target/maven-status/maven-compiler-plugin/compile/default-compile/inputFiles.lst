@@ -1,0 +1,11 @@
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\entity\PatientDisease.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\RestApplication.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\LoadDatabase.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\entity\Doctor.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\exeption\DiseaseNotFoundException.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\controller\PatientController.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\entity\Patient.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\repository\PatientRepository.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\controller\DiseasController.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\repository\DiseasRepository.java
+C:\Users\Primož\Downloads\rest\rest\src\main\java\com\example\rest\entity\Disease.java
