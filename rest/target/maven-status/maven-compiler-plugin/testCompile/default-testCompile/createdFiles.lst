@@ -1,0 +1,4 @@
+com\example\rest\service\PatientTest.class
+com\example\rest\service\DiseaseTest.class
+com\example\rest\service\DoctorTest.class
+com\example\rest\RestApplicationTests.class
